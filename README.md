@@ -1,2 +1,2 @@
 # MSDSAM
-Multi-Scale Dynamic Spatial Attention Module for Point Cloud Detection
+The code will be made publicly available.
